@@ -1,2 +1,2 @@
-# PyScan
-A simple TCP Port Scanner in Python
+# PortScan
+A simple TCP Port Scanner in Ruby
