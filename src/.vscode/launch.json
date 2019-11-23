@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${workspaceRoot}/TCPPortScan.rb",
             // Put following line back in and change IP and port arguments if you want to debug from VSCode
-            "args": ["192.168.0.1", "21", "23", "53", "80"]
+            //"args": ["192.168.0.1", "21", "23", "53", "80"]
         }
     ]
 }
