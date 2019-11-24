@@ -130,12 +130,12 @@ def open_TCP_port(host, port)
       socket.close
       return true
     end
-    rescue
-      # ..in all other cases, close the socket if open, and return false
-      if socket != nil
-        socket.close
-      end
-      return false
+  rescue
+    # ..in all other cases, close the socket if open, and return false
+    if socket != nil
+      socket.close
+    end
+    return false
   end
 end
 
