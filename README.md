@@ -16,5 +16,4 @@ Start scanning host 192.168.0.1 for 7 ports
 Port 53 (DNS) open
 Port 80 (HTTP) open
 Complete. 2 open ports. 5 closed ports
-
-C:\Users\jdorr\Desktop\Dev\TCPPortScan\src>```
+```
