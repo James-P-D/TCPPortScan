@@ -1,5 +1,5 @@
 # TCPPortScan
-A simple TCP Port Scanner in [Ruby](https://www.ruby-lang.org/en/)
+A simple TCP Port Scanner in [Ruby](https://www.ruby-lang.org/en/) (v2.6.5p114)
 
 ![Screenshot](https://github.com/James-P-D/TCPPortScan/blob/master/screenshot.gif)
 
